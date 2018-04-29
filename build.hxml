@@ -1,0 +1,5 @@
+-cp src
+-lib react
+
+react.wrap.ReactWrapperMacro
+-js .build/test.js

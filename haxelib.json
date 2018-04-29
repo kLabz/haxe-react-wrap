@@ -1,0 +1,14 @@
+{
+  "name": "react-wrap",
+  "description": "Temp haxelib",
+  "version": "0.0.1",
+  "releasenote": "",
+  "url": "https://github.com/kLabz/react-wrap",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
+
